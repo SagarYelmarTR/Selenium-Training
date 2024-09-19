@@ -1,0 +1,14 @@
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\bin\Debug\net8.0\EmpolyeeDashboard.exe
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\bin\Debug\net8.0\EmpolyeeDashboard.deps.json
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\bin\Debug\net8.0\EmpolyeeDashboard.runtimeconfig.json
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\bin\Debug\net8.0\EmpolyeeDashboard.dll
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\bin\Debug\net8.0\EmpolyeeDashboard.pdb
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.AssemblyInfoInputs.cache
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.AssemblyInfo.cs
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.csproj.CoreCompileInputs.cache
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.dll
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\refint\EmpolyeeDashboard.dll
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.pdb
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\EmpolyeeDashboard.genruntimeconfig.cache
+C:\Users\6124777\source\repos\Solution3\EmpolyeeDashboard\obj\Debug\net8.0\ref\EmpolyeeDashboard.dll
